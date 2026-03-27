@@ -253,8 +253,7 @@ All solutions include detailed complexity analysis:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/leetcode-solutions.git
-cd leetcode-solutions
+git clone https://github.com/shaniprajapatiii/DSA-PROBLEMS.git
 
 # Compile a solution
 javac L11_TwoSum.java
@@ -291,12 +290,121 @@ public static void main(String[] args) {
 
 ---
 
+## ✅ Personal Solve Checklist
+
+Tick each problem as you solve it: change `[ ]` to `[✅]`.
+
+- [✅] [L1_RotateArray.java](L1_RotateArray.java)
+- [ ] [L2_EvaluateReversePolishNotation.java](L2_EvaluateReversePolishNotation.java)
+- [ ] [L3_LongestPalindromicSubstring.java](L3_LongestPalindromicSubstring.java)
+- [ ] [L4_WordBreak.java](L4_WordBreak.java)
+- [ ] [L5_WordBreakII.java](L5_WordBreakII.java)
+- [ ] [L6_WordLadde.java](L6_WordLadde.java)
+- [ ] [L7_MedianOfTwoSortedArraysJava.java](L7_MedianOfTwoSortedArraysJava.java)
+- [ ] [L8_RegularExpressionMatchingInJava.java](L8_RegularExpressionMatchingInJava.java)
+- [ ] [L9_MergeIntervals.java](L9_MergeIntervals.java)
+- [ ] [L10_InsertInterval.java](L10_InsertInterval.java)
+- [ ] [L11_TwoSum.java](L11_TwoSum.java)
+- [ ] [L12_TwoSumIIInputArrayIsSorted.java](L12_TwoSumIIInputArrayIsSorted.java)
+- [ ] [L13_TwoSumIIIDataStructureDesign.java](L13_TwoSumIIIDataStructureDesign.java)
+- [✅] [L14_3Sum.java](L14_3Sum.java)
+- [ ] [L15_4Sum.java](L15_4Sum.java)
+- [ ] [L16_3SumClosest.java](L16_3SumClosest.java)
+- [ ] [L17_StringToIntegerAtoi.java](L17_StringToIntegerAtoi.java)
+- [ ] [L18_MergeSortedArray.java](L18_MergeSortedArray.java)
+- [ ] [L19_ValidParentheses.java](L19_ValidParentheses.java)
+- [ ] [L20_ImplementStrStr.java](L20_ImplementStrStr.java)
+- [ ] [L21_SetMatrixZeroes.java](L21_SetMatrixZeroes.java)
+- [ ] [L22_SearchInsertPosition.java](L22_SearchInsertPosition.java)
+- [ ] [L23_LongestConsecutiveSequenceJava.java](L23_LongestConsecutiveSequenceJava.java)
+- [ ] [L24_ValidPalindrome.java](L24_ValidPalindrome.java)
+- [ ] [L25_SpiralMatrix.java](L25_SpiralMatrix.java)
+- [ ] [L26_SearchA2DMatrix.java](L26_SearchA2DMatrix.java)
+- [ ] [L27_RotateImage.java](L27_RotateImage.java)
+- [ ] [L28_Triangle.java](L28_Triangle.java)
+- [ ] [L29_DistinctSubsequencesTotal.java](L29_DistinctSubsequencesTotal.java)
+- [ ] [L30_MaximumSubarray.java](L30_MaximumSubarray.java)
+- [ ] [L31_MaximumProductSubarray.java](L31_MaximumProductSubarray.java)
+- [ ] [L32_RemoveDuplicatesFromSortedArray.java](L32_RemoveDuplicatesFromSortedArray.java)
+- [ ] [L33_RemoveDuplicatesFromSortedArrayII.java](L33_RemoveDuplicatesFromSortedArrayII.java)
+- [ ] [L34_LongestSubstringWithoutRepeatingCharacters.java](L34_LongestSubstringWithoutRepeatingCharacters.java)
+- [ ] [L35_LongestSubstringWhichContains2UniqueCharacters.java](L35_LongestSubstringWhichContains2UniqueCharacters.java)
+- [ ] [L36_PalindromePartitioning.java](L36_PalindromePartitioning.java)
+- [ ] [L37_ReverseWordsInAString.java](L37_ReverseWordsInAString.java)
+- [ ] [L38_FindMinimumInRotatedSortedArray.java](L38_FindMinimumInRotatedSortedArray.java)
+- [ ] [L39_FindMinimumInRotatedSortedArrayII.java](L39_FindMinimumInRotatedSortedArrayII.java)
+- [ ] [L40_FindPeakElement.java](L40_FindPeakElement.java)
+- [ ] [L41_MinStack.java](L41_MinStack.java)
+- [ ] [L42_MajorityElement.java](L42_MajorityElement.java)
+- [ ] [L43_CombinationSum.java](L43_CombinationSum.java)
+- [ ] [L44_BestTimeToBuyAndSellStock.java](L44_BestTimeToBuyAndSellStock.java)
+- [ ] [L45_BestTimeToBuyAndSellStockII.java](L45_BestTimeToBuyAndSellStockII.java)
+- [ ] [L46_BestTimeToBuyAndSellStockIII.java](L46_BestTimeToBuyAndSellStockIII.java)
+- [ ] [L47_BestTimeToBuyAndSellStockIV.java](L47_BestTimeToBuyAndSellStockIV.java)
+- [ ] [L48_LongestCommonPrefix.java](L48_LongestCommonPrefix.java)
+- [ ] [L49_LargestNumber.java](L49_LargestNumber.java)
+- [ ] [L50_Combinations.java](L50_Combinations.java)
+- [ ] [L51_CompareVersionNumbers.java](L51_CompareVersionNumbers.java)
+- [ ] [L52_GasStation.java](L52_GasStation.java)
+- [ ] [L53_Candy.java](L53_Candy.java)
+- [ ] [L54_JumpGame.java](L54_JumpGame.java)
+- [ ] [L55_PascalsTriangle.java](L55_PascalsTriangle.java)
+- [ ] [L56_ContainerWithMostWater.java](L56_ContainerWithMostWater.java)
+- [ ] [L57_CountAndSay.java](L57_CountAndSay.java)
+- [ ] [L58_RepeatedDNASequences.java](L58_RepeatedDNASequences.java)
+- [ ] [L59_AddTwoNumbers.java](L59_AddTwoNumbers.java)
+- [ ] [L60_ReorderList.java](L60_ReorderList.java)
+- [ ] [L61_LinkedListCycle.java](L61_LinkedListCycle.java)
+- [ ] [L62_CopyListWithRandomPointer.java](L62_CopyListWithRandomPointer.java)
+- [ ] [L63_MergeTwoSortedLists.java](L63_MergeTwoSortedLists.java)
+- [ ] [L64_MergeKSortedLists.java](L64_MergeKSortedLists.java)
+- [ ] [L65_RemoveDuplicatesFromSortedList.java](L65_RemoveDuplicatesFromSortedList.java)
+- [ ] [L66_PartitionList.java](L66_PartitionList.java)
+- [ ] [L67_LRUCache.java](L67_LRUCache.java)
+- [ ] [L68_IntersectionOfTwoLinkedLists.java](L68_IntersectionOfTwoLinkedLists.java)
+- [ ] [L69_JavaPriorityQueueClassExample.java](L69_JavaPriorityQueueClassExample.java)
+- [ ] [L70_SolutionForBinaryTreePreorderTraversalInJava.java](L70_SolutionForBinaryTreePreorderTraversalInJava.java)
+- [ ] [L71_SolutionOfBinaryTreeInorderTraversalInJava.java](L71_SolutionOfBinaryTreeInorderTraversalInJava.java)
+- [ ] [L72_SolutionOfIterativeBinaryTreePostorderTraversalInJava.java](L72_SolutionOfIterativeBinaryTreePostorderTraversalInJava.java)
+- [ ] [L73_ValidateBinarySearchTree.java](L73_ValidateBinarySearchTree.java)
+- [ ] [L74_FlattenBinaryTreeToLinkedList.java](L74_FlattenBinaryTreeToLinkedList.java)
+- [ ] [L75_PathSum.java](L75_PathSum.java)
+- [ ] [L76_ConstructBinaryTreeFromInorderAndPostorderTraversal.java](L76_ConstructBinaryTreeFromInorderAndPostorderTraversal.java)
+- [ ] [L77_ConvertSortedArrayToBinarySearchTree.java](L77_ConvertSortedArrayToBinarySearchTree.java)
+- [ ] [L78_ConvertSortedListToBinarySearchTree.java](L78_ConvertSortedListToBinarySearchTree.java)
+- [ ] [L79_MinimumDepthOfBinaryTree.java](L79_MinimumDepthOfBinaryTree.java)
+- [ ] [L80_BinaryTreeMaximumPathSum.java](L80_BinaryTreeMaximumPathSum.java)
+- [ ] [L81_BalancedBinaryTree.java](L81_BalancedBinaryTree.java)
+- [ ] [L82_SymmetricTree.java](L82_SymmetricTree.java)
+- [ ] [L83_CloneGraphJava.java](L83_CloneGraphJava.java)
+- [ ] [L84_HowDevelopersSortInJava.java](L84_HowDevelopersSortInJava.java)
+- [ ] [L85_SolutionMergeSortLinkedListInJava.java](L85_SolutionMergeSortLinkedListInJava.java)
+- [ ] [L86_QuicksortArrayInJava.java](L86_QuicksortArrayInJava.java)
+- [ ] [L87_SolutionSortALinkedListUsingInsertionSortInJava.java](L87_SolutionSortALinkedListUsingInsertionSortInJava.java)
+- [ ] [L88_MaximumGap.java](L88_MaximumGap.java)
+- [ ] [L89_IterationVsRecursionInJava.java](L89_IterationVsRecursionInJava.java)
+- [ ] [L90_EditDistanceInJava.java](L90_EditDistanceInJava.java)
+- [ ] [L91_SingleNumber.java](L91_SingleNumber.java)
+- [ ] [L92_SingleNumberII.java](L92_SingleNumberII.java)
+- [ ] [L93_TwitterCodilityProblemMaxBinaryGap.java](L93_TwitterCodilityProblemMaxBinaryGap.java)
+- [ ] [L94_NumberOf1Bits.java](L94_NumberOf1Bits.java)
+- [ ] [L95_ReverseBits.java](L95_ReverseBits.java)
+- [ ] [L96_Permutations.java](L96_Permutations.java)
+- [ ] [L97_PermutationsII.java](L97_PermutationsII.java)
+- [ ] [L98_PermutationSequence.java](L98_PermutationSequence.java)
+- [ ] [L99_GenerateParentheses.java](L99_GenerateParentheses.java)
+- [ ] [L100_ReverseInteger.java](L100_ReverseInteger.java)
+- [ ] [L101_PalindromeNumber.java](L101_PalindromeNumber.java)
+- [ ] [L102_PowX_N.java](L102_PowX_N.java)
+
+---
+
 ## 📚 Learning Resources
 
 - [LeetCode Official](https://leetcode.com)
 - [GeeksforGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
-- [InterviewBit](https://www.interviewbit.com)
-- [Algorithm Visualizer](https://algorithm-visualizer.org/)
+<!-- - [InterviewBit](https://www.interviewbit.com)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/) -->
 
 ---
 
