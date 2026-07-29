@@ -1,4 +1,4 @@
-public class L1_RotateArray {
+public class RotateArray {
     public static void rotateRight(int[] arr, int k) {
         int n = arr.length;
         k = k % n; // handle k > n
@@ -22,7 +22,7 @@ public class L1_RotateArray {
         int[] arr = {1, 2, 3, 4, 5, 6, 7};
         rotateRight(arr, 3);
 
-        for (int num : arr) {
+        for(int num : arr) {
             System.out.print(num + " ");
         }
     }
